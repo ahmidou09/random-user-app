@@ -29,8 +29,6 @@ Before you begin, ensure you have the following installed on your machine:
    git clone https://github.com/ahmidou09/random-user-app
    ```
 
-````
-
 2. Navigate to the project directory:
 
    ```sh
@@ -72,4 +70,3 @@ Contributions are welcome! Here's how you can contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-````
